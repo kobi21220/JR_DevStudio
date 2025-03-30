@@ -1,0 +1,5 @@
+/* הוספת רקע עם פסים ירוקים, סגולים ושחורים לסקשן "מי אני" */
+.bg-striped-pattern {
+  background: linear-gradient(135deg, #7e22ce 25%, #000000 25%, #000000 50%, #22c55e 50%, #22c55e 75%, #7e22ce 75%);
+  background-size: 56.57px 56.57px;
+}
